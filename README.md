@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="480" height="458" alt="logo" src="https://github.com/user-attachments/assets/485654b8-54bc-4c05-a2ae-cbf57ab47b8b" />
+<img width="160" height="168" alt="logo" src="https://github.com/user-attachments/assets/485654b8-54bc-4c05-a2ae-cbf57ab47b8b" />
 
 # Buy&Get — Online Shopping Platform
 
